@@ -6,75 +6,6 @@ I design and build AI-powered revenue systems that automate lead generation, enr
 
 ---
 
-## 🏆 AROS — Autonomous Revenue Operations System (Vibeathon Winner)
-
-> **"Salesforce shows what happened. Gong explains why. AROS decides what to do — and acts."**
-
-An AI-powered revenue execution engine that transforms traditional RevOps from **reactive reporting → autonomous execution**.
-
----
-
-### 💡 What it does
-
-* Detects stalled deals and unworked leads
-* Prioritizes risks across the entire funnel
-* Recommends & executes corrective actions
-* Tracks outcomes automatically
-
----
-
-### 🧠 Key Capabilities
-
-* Executive Command Center (real-time KPIs & pipeline health)
-* AI Decision Engine (next-best-action recommendations)
-* Funnel Monitor (risk scoring across pipeline)
-* Action Layer (automated tasks, alerts, outreach)
-* Activity Feed (AI actions + measurable outcomes)
-
----
-
-### 📈 Business Impact
-
-* Higher pipeline conversion
-* Faster lead response time
-* Reduced manual monitoring
-* Recovery of at-risk revenue
-* Scalable RevOps without headcount increase
-
----
-
-### 🛠 Tech Stack
-
-Pave (Quickbase), Salesforce, Slack, Marketo, LLMs (ChatGPT, Claude), Zapier / Workato
-
----
-
-## 📊 AROS System — Live Screens
-
-### 🧭 Revenue Operations Command Center
-
-![AROS Control Center](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB1.png)
-
----
-
-### 📊 Funnel Monitor (Pipeline Risk & Health)
-
-![AROS Funnel](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB2.png)
-
----
-
-### 🤖 AI Decision Engine (Autonomous Actions)
-
-![AROS Decision Engine](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB3.png)
-
----
-
-### ⚙️ Workflow Execution & Activity Tracking
-
-![AROS Workflow](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB4.png)
-
----
-
 ## 🧠 What I Do
 
 * ⚡ Build end-to-end GTM automation systems
@@ -86,6 +17,41 @@ Pave (Quickbase), Salesforce, Slack, Marketo, LLMs (ChatGPT, Claude), Zapier / W
 ---
 
 ## 🚀 Featured Projects
+
+### 🥇 AROS — Autonomous Revenue Operations System (Vibeathon Winner)
+
+> **"Salesforce shows what happened. Gong explains why. AROS decides what to do — and acts."**
+
+AI-powered revenue execution engine that transforms RevOps from **reporting → autonomous decision-making**
+
+**Highlights:**
+
+* Detects stalled deals & pipeline risks automatically
+* AI-driven next-best-action recommendations
+* Executes tasks, alerts, and outreach autonomously
+* Built on Pave (Quickbase) with Salesforce + Slack integrations
+
+---
+
+### 📊 AROS — System Screens
+
+#### 🧭 Control Center
+
+![AROS Control Center](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB1.png)
+
+#### 📊 Funnel Monitor
+
+![AROS Funnel](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB2.png)
+
+#### 🤖 AI Decision Engine
+
+![AROS Decision Engine](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB3.png)
+
+#### ⚙️ Workflow Execution
+
+![AROS Workflow](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB4.png)
+
+---
 
 ### 🔹 GTM Lead Automation System
 
