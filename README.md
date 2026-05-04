@@ -223,12 +223,12 @@ Excel, SharePoint, ZoomInfo, RingLead
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/parvez-akhtar-415319a6/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="mailto:parvez.ssitm@gmail.com">
-    <img src="https://img.icons8.com/color/96/gmail-new.png" alt="Email" width="55" height="55"/>
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="50"/>
   </a>
 </p>
