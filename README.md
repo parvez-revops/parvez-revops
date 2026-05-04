@@ -6,22 +6,24 @@ I design and build AI-powered revenue systems that automate lead generation, enr
 
 ---
 
-## 🏆 Featured Project — AROS (Vibeathon Winner)
-
-### 🚀 Autonomous Revenue Operations System (AROS)
+## 🏆 AROS — Autonomous Revenue Operations System (Vibeathon Winner)
 
 > **"Salesforce shows what happened. Gong explains why. AROS decides what to do — and acts."**
 
 An AI-powered revenue execution engine that transforms traditional RevOps from **reactive reporting → autonomous execution**.
 
-### 💡 What it does:
+---
+
+### 💡 What it does
 
 * Detects stalled deals and unworked leads
 * Prioritizes risks across the entire funnel
 * Recommends & executes corrective actions
 * Tracks outcomes automatically
 
-### 🧠 Key Capabilities:
+---
+
+### 🧠 Key Capabilities
 
 * Executive Command Center (real-time KPIs & pipeline health)
 * AI Decision Engine (next-best-action recommendations)
@@ -29,7 +31,9 @@ An AI-powered revenue execution engine that transforms traditional RevOps from *
 * Action Layer (automated tasks, alerts, outreach)
 * Activity Feed (AI actions + measurable outcomes)
 
-### 📈 Business Impact:
+---
+
+### 📈 Business Impact
 
 * Higher pipeline conversion
 * Faster lead response time
@@ -37,9 +41,37 @@ An AI-powered revenue execution engine that transforms traditional RevOps from *
 * Recovery of at-risk revenue
 * Scalable RevOps without headcount increase
 
-### 🛠 Tech Stack:
+---
+
+### 🛠 Tech Stack
 
 Pave (Quickbase), Salesforce, Slack, Marketo, LLMs (ChatGPT, Claude), Zapier / Workato
+
+---
+
+## 📊 AROS System — Live Screens
+
+### 🧭 Revenue Operations Command Center
+
+![AROS Control Center](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB1.png)
+
+---
+
+### 📊 Funnel Monitor (Pipeline Risk & Health)
+
+![AROS Funnel](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB2.png)
+
+---
+
+### 🤖 AI Decision Engine (Autonomous Actions)
+
+![AROS Decision Engine](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB3.png)
+
+---
+
+### ⚙️ Workflow Execution & Activity Tracking
+
+![AROS Workflow](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB4.png)
 
 ---
 
