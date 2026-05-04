@@ -59,14 +59,15 @@ End-to-end lead pipeline automation from **form capture → enrichment → CRM s
 
 #### 📊 Workflow
 
-![Lead Intake]([https://github.com/parvez-revops/gtm-lead-automation-system/blob/main/3-1.png])
+![GTM Workflow](https://raw.githubusercontent.com/parvez-revops/gtm-lead-automation-system/main/3-1.png)
 
+---
 
 **Impact:**
 
-* 80% reduction in manual work
-* 3× faster lead qualification
-* 100% pipeline visibility
+* 80% reduction in manual work  
+* 3× faster lead qualification  
+* 100% pipeline visibility  
 
 ---
 
