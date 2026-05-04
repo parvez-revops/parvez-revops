@@ -223,7 +223,14 @@ Excel, SharePoint, ZoomInfo, RingLead
 
 ## 🌐 Connect with Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/parvez-akhtar-415319a6/
-* 📧 Email: [parvez.ssitm@gmail.com](mailto:parvez.ssitm@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/parvez-akhtar-415319a6/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>
+  </a>
 
----
+    
+
+  <a href="mailto:parvez.ssitm@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="60" height="60"/>
+  </a>
+</p>
