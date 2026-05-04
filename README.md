@@ -43,11 +43,11 @@ AI-powered revenue execution engine that transforms RevOps from **reporting → 
 
 ![AROS Funnel](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB2.png)
 
-#### 🤖 AI Decision Engine
+#### 📊 Funnel Monitor
 
 ![AROS Decision Engine](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB3.png)
 
-#### ⚙️ Workflow Execution
+#### 🤖 AI Decision Engine
 
 ![AROS Workflow](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB4.png)
 
