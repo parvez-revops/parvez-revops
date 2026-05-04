@@ -118,13 +118,32 @@ Transforms Slack website visitor alerts into **enriched, verified, and SDR-ready
 
 ### 🔹 Lookalike Company Finder (Slack + Clay)
 
-Find and enrich similar companies instantly from Slack
+Find and enrich **similar companies instantly from Slack using AI**
 
-**Impact:**
+---
 
-* 90% reduction in research time
-* Real-time AI enrichment
-* No duplicate records
+#### 🔍 Workflow
+
+![Lookalike Finder](https://raw.githubusercontent.com/parvez-revops/lookalike-company-finder/main/lookalike-workflow.png)
+
+---
+
+#### 💡 Key Capabilities
+
+* Instant lookalike company discovery
+* AI-powered enrichment via Clay + Ocean.io
+* Duplicate detection & smart record handling
+* Private Slack delivery for SDRs
+
+---
+
+#### 📈 Impact
+
+* ⚡ 90% reduction in research time
+* 🎯 Better prospect targeting
+* 🔁 Real-time enrichment
+* ✅ Error-free data handling
+
 
 ---
 
