@@ -2,7 +2,7 @@
 
 ### 🚀 RevOps Engineer | AI Automation Specialist | GTM Systems Builder
 
-I design and build AI-powered revenue systems that automate lead generation, enrichment, and pipeline workflows using Salesforce, Clay, Zapier, Slack, Workato, N8N, Pave Automation, Vector, Usergems, GONG etc and LLMs.
+I design and build AI-powered revenue systems that automate lead generation, enrichment, and pipeline workflows using Salesforce, Clay, Zapier, Slack, Workato, and LLMs.
 
 ---
 
@@ -10,7 +10,7 @@ I design and build AI-powered revenue systems that automate lead generation, enr
 
 * ⚡ Build end-to-end GTM automation systems
 * 🤖 Create AI-powered workflows using LLMs
-* 🔗 Integrate Salesforce, Clay, Slack, Zoominfo, Slack, GONG, ChatGPT and 50+ other tools
+* 🔗 Integrate Salesforce, Clay, Slack, Zapier, Workato
 * 📊 Optimize RevOps, pipeline, and lead routing
 * 🚀 Enable SDR productivity through automation
 
@@ -43,76 +43,33 @@ AI-powered revenue execution engine that transforms RevOps from **reporting → 
 
 ![AROS Funnel](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB2.png)
 
-#### 📊 Funnel Monitor
+#### 🤖 AI Decision Engine
 
 ![AROS Decision Engine](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB3.png)
 
-#### 🤖 AI Decision Engine
+#### ⚙️ Workflow Execution
 
 ![AROS Workflow](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB4.png)
 
 ---
 
-### 🚀 GTM Lead Automation System
+### 🔹 GTM Lead Automation System
 
-End-to-end AI-powered lead pipeline automation from **form capture → enrichment → CRM sync**
+End-to-end lead pipeline automation from **form capture → enrichment → CRM sync**
 
----
+#### 📊 Workflow
 
-## 📊 Workflow Overview
+![Lead Intake](https://raw.githubusercontent.com/parvez-revops/gtm-lead-automation-system/main/git1.png)
 
-### 🧾 Lead Intake (Form → Excel)
+![Enrichment](https://raw.githubusercontent.com/parvez-revops/gtm-lead-automation-system/main/git%202.png)
 
-![Lead Intake](./git1.png)
+![Data Sync](https://raw.githubusercontent.com/parvez-revops/gtm-lead-automation-system/main/git3.png)
 
-Captures structured lead data (industry, size, location, intent) directly from forms into a centralized system.
+**Impact:**
 
----
-
-### 🤖 Enrichment Engine (Excel → Clay → Zapier)
-
-![Enrichment](./git 2.png)
-
-* Automatically triggers on new lead entry
-* Uses Clay to identify and enrich 100 relevant companies
-* Adds company data, personas, and intent signals
-
----
-
-### ⚙️ Data Sync (Webhook → Loop → CRM)
-
-![Data Sync](./git3.png)
-
-* Fetches enriched data via webhook
-* Loops through records
-* Pushes structured data into Excel / CRM (Salesforce, Outreach)
-
----
-
-## 💡 Key Features
-
-* Automated lead intake & structuring
-* AI-powered company discovery & enrichment
-* Loop-based scalable data processing
-* CRM-ready output with zero manual intervention
-
----
-
-## 📈 Impact
-
-* ⚡ 80% reduction in manual data entry
-* 🚀 3× faster lead qualification
-* 📊 100% pipeline visibility
-* 🔁 Scalable from 1 → 100+ enriched records instantly
-
----
-
-## 🛠 Tech Stack
-
-* Microsoft Forms / Excel
-* Clay (AI enrichment)
-* Zapier (automation + looping + webhooks)
-* CRM (Salesforce / Outreach)
+* 80% reduction in manual work
+* 3× faster lead qualification
+* 100% pipeline visibility
 
 ---
 
