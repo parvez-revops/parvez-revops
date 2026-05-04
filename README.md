@@ -75,14 +75,44 @@ End-to-end lead pipeline automation from **form capture → enrichment → CRM s
 
 ### 🔹 Persona Vector Lead Enrichment Engine
 
-Transforms Slack website visitor alerts into enriched, trackable leads
+Transforms Slack website visitor alerts into **enriched, verified, and SDR-ready leads**
 
-**Features:**
+---
 
-* Data parsing & normalization
-* Email + LinkedIn verification
-* Persona enrichment & tagging
-* Excel tracking + Slack reminders
+#### 🤖 Workflow (Slack → Zapier → Clay → CRM)
+
+![Persona Workflow](https://raw.githubusercontent.com/parvez-revops/persona-lead-enrichment-engine/main/per1.png)
+
+---
+
+#### 📊 Enriched Lead Intelligence (Clay + Excel)
+
+![Lead Enrichment](https://raw.githubusercontent.com/parvez-revops/persona-lead-enrichment-engine/main/per2.png)
+
+---
+
+#### 💬 Slack Alerts & Tracking
+
+![Slack Alerts](https://raw.githubusercontent.com/parvez-revops/persona-lead-enrichment-engine/main/per3.png)
+
+---
+
+#### 💡 Key Capabilities
+
+* Parses unstructured Slack alerts into structured lead data
+* Verifies emails & LinkedIn profiles using Clay enrichment
+* Enriches personas with roles, company data, and context tags
+* Tracks leads in Excel with ownership & weekly follow-ups
+* Sends automated Slack reminders for SDR action
+
+---
+
+#### 📈 Impact
+
+* ⚡ ~30% reduction in SDR qualification time
+* 🚀 Up to 2× increase in qualified meetings
+* 📊 100% visibility & tracking of inbound leads
+* 🔁 Real-time processing with zero manual effort
 
 ---
 
