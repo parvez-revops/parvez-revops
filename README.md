@@ -1,96 +1,75 @@
-# Hi, I'm Parvez Akhtar 👋
+---
 
-### 🚀 RevOps Engineer | AI Automation Specialist | GTM Systems Builder
+## 🏆 Featured Project — AROS (Vibeathon Winner)
 
-I design and build AI-powered revenue systems that automate lead generation, enrichment, and pipeline workflows using Salesforce, Clay, Zapier, Slack, and LLMs.
+### 🚀 Autonomous Revenue Operations System (AROS)
+
+> **"Salesforce shows what happened. Gong explains why. AROS decides what to do — and acts."**
+
+An AI-powered revenue execution engine that transforms traditional RevOps from **reactive reporting → autonomous execution**.
 
 ---
 
-## 🧠 What I Do
+## 📊 System Overview
 
-* ⚡ Build end-to-end GTM automation systems
-* 🤖 Create AI-powered workflows using LLMs (ChatGPT, Claude)
-* 🔗 Integrate tools like Salesforce, Clay, Zapier, Slack, Workato
-* 📊 Optimize RevOps, lead routing, and pipeline visibility
-* 🚀 Enable SDRs with automation & account intelligence systems
+![AROS Overview](https://via.placeholder.com/900x400?text=Upload+AROS+Diagram+Here)
 
 ---
 
-## 🏆 Featured Projects
+## 💡 Problem → Solution
 
-### 🔹 GTM Lead Automation System
+**Problem:**
 
-End-to-end lead pipeline automation from form capture → enrichment → CRM sync
-**Impact:**
+* Manual monitoring of pipeline
+* Reactive decision-making
+* Missed opportunities & revenue leakage
 
-* 80% reduction in manual work
-* 3× faster lead qualification
-* 100% visibility across funnel
+**Solution (AROS):**
 
----
-
-### 🔹 Persona Vector Lead Enrichment Engine
-
-Transforms Slack website visitor alerts into enriched, trackable leads using AI + automation
-
-**Key Features:**
-
-* Automated data parsing & normalization
-* Email & LinkedIn verification
-* Persona enrichment & tagging
-* Excel-based lead tracking + Slack reminders
+* Detects stalled deals & unworked leads
+* Prioritizes risks across funnel
+* Recommends & executes actions
+* Tracks outcomes automatically
 
 ---
 
-### 🔹 Lookalike Company Finder (Slack + Clay)
+## 🧠 Architecture
 
-Find and enrich similar companies instantly from Slack
-
-**Impact:**
-
-* 90% reduction in research time
-* Real-time AI-powered enrichment
-* Zero duplicate records
+![AROS Architecture](https://via.placeholder.com/900x400?text=Upload+Architecture+Diagram)
 
 ---
 
-### 🔹 Slack + Clay Account Intelligence Bot
+## ⚙️ Key Capabilities
 
-Fetches or creates enriched company records directly from Slack
-
-**Features:**
-
-* Smart “find or create” logic
-* Private Slack delivery (compliance-safe)
-* Real-time enrichment insights
+* 🧭 Executive Command Center (real-time KPIs & pipeline health)
+* 🤖 AI Decision Engine (next-best-action recommendations)
+* 📊 Funnel Monitor (risk scoring across pipeline)
+* ⚡ Action Layer (automated alerts, tasks, outreach)
+* 📡 Activity Feed (AI actions + measurable outcomes)
 
 ---
 
-## 🛠️ Tech Stack
+## 🔁 Workflow
 
-**CRM & RevOps:**
-Salesforce, Marketo, Gong, Outreach
-
-**Automation & AI:**
-Zapier, Clay, Workato, n8n, ChatGPT, Claude
-
-**Data & Tools:**
-Excel, SharePoint, ZoomInfo, RingLead
+![AROS Workflow](https://via.placeholder.com/900x400?text=Upload+Workflow+Diagram)
 
 ---
 
-## 📈 Impact
+## 📈 Business Impact
 
-* 🚀 10+ production AI automation systems
-* ⚡ 95% reduction in SDR research time
-* 📊 150+ account briefs generated weekly
-* 🔁 Scalable GTM workflows across teams
+* 🚀 Higher pipeline conversion
+* ⚡ Faster lead response time
+* 🔻 Reduced manual monitoring
+* 💰 Recovery of at-risk revenue
+* 📊 Scalable RevOps without headcount increase
 
 ---
 
-## 🌐 Connect with Me
+## 🛠 Tech Stack
 
-* 💼 LinkedIn: https://www.linkedin.com/in/parvez-akhtar-415319a6/
-* 📧 Email: [parvez.ssitm@gmail.com](mailto:parvez.ssitm@gmail.com)
+**Platform:** Pave (Quickbase)
+**Integrations:** Salesforce, Slack, Marketo
+**AI Layer:** LLMs (ChatGPT, Claude)
+**Automation:** Zapier / Workato
 
 ---
