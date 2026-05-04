@@ -1,6 +1,6 @@
-# Hi, I'm Parvez Akhtar 👋
+# Hi, I'm Parvez
 
-### 🚀 RevOps Engineer | AI Automation Specialist | GTM Systems Builder
+### RevOps Engineer | AI Automation Specialist | GTM Systems Builder
 
 I design and build AI-powered revenue systems that automate lead generation, enrichment, and pipeline workflows using Salesforce, Clay, Zapier, Slack, Workato, and LLMs.
 
@@ -149,15 +149,54 @@ Find and enrich **similar companies instantly from Slack using AI**
 
 ### 🔹 Slack + Clay Account Intelligence Bot
 
-Fetches or creates enriched company data directly from Slack
-
-**Features:**
-
-* Find-or-create logic
-* Private Slack delivery (compliance-safe)
-* Real-time insights
+Automates **company lookup, enrichment, and record creation directly from Slack** using intelligent “find or create” logic.
 
 ---
+
+#### 🤖 Smart Workflow — Find or Create Record
+
+![Account Intelligence Workflow](https://raw.githubusercontent.com/parvez-revops/slack-clay-account-intelligence-bot/main/account%20research.png)
+
+---
+
+#### ⚙️ How It Works
+
+* Slack captures company domain input
+* System checks if record already exists in Clay
+* Uses **conditional logic (Paths)** to decide next action
+
+**🟢 Path A — Record Found**
+
+* Fetches existing enriched company data
+* Sends results via private Slack DM
+
+**🟠 Path B — Record Not Found**
+
+* Creates new record in Clay
+* Enriches company data automatically
+* Returns enriched insights via Slack DM
+
+---
+
+#### 💡 Key Capabilities
+
+* Intelligent “find vs create” automation
+* Prevents duplicate records
+* Ensures private, compliance-safe delivery
+* Enables real-time account intelligence
+* Eliminates manual enrichment workflows
+
+---
+
+#### 📈 Impact
+
+* ⚡ Reduced manual account research
+* 🔁 One unified workflow for lookup + creation
+* 🔒 Privacy-safe Slack delivery
+* 🚀 Faster SDR execution
+
+---
+
 
 ## 🛠️ Tech Stack
 
