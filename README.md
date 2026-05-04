@@ -122,7 +122,7 @@ Find and enrich **similar companies instantly from Slack using AI**
 
 #### 🔍 Workflow
 
-![Lookalike Finder](https://github.com/parvez-revops/lookalike-company-finder/blob/main/lookalike-workflow.png.png)
+![Lookalike Finder](https://github.com/parvez-revops/lookalike-company-finder/blob/main/slack%20intake%20and%20routing.png)
 
 ---
 
