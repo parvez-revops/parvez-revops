@@ -59,11 +59,8 @@ End-to-end lead pipeline automation from **form capture → enrichment → CRM s
 
 #### 📊 Workflow
 
-![Lead Intake](https://raw.githubusercontent.com/parvez-revops/gtm-lead-automation-system/main/git1.png)
+![Lead Intake]([https://raw.githubusercontent.com/parvez-revops/gtm-lead-automation-system/main/git1.png](https://github.com/parvez-revops/gtm-lead-automation-system/blob/main/3-1.png))
 
-![Enrichment](https://raw.githubusercontent.com/parvez-revops/gtm-lead-automation-system/main/git%202.png)
-
-![Data Sync](https://raw.githubusercontent.com/parvez-revops/gtm-lead-automation-system/main/git3.png)
 
 **Impact:**
 
