@@ -2,7 +2,7 @@
 
 ### 🚀 RevOps Engineer | AI Automation Specialist | GTM Systems Builder
 
-I design and build AI-powered revenue systems that automate lead generation, enrichment, and pipeline workflows using Salesforce, Clay, Zapier, Slack, Workato, and LLMs.
+I design and build AI-powered revenue systems that automate lead generation, enrichment, and pipeline workflows using Salesforce, Clay, Zapier, Slack, Workato, N8N, Pave Automation, Vector, Usergems, GONG etc and LLMs.
 
 ---
 
@@ -10,7 +10,7 @@ I design and build AI-powered revenue systems that automate lead generation, enr
 
 * ⚡ Build end-to-end GTM automation systems
 * 🤖 Create AI-powered workflows using LLMs
-* 🔗 Integrate Salesforce, Clay, Slack, Zapier, Workato
+* 🔗 Integrate Salesforce, Clay, Slack, Zoominfo, Slack, GONG, ChatGPT and 50+ other tools
 * 📊 Optimize RevOps, pipeline, and lead routing
 * 🚀 Enable SDR productivity through automation
 
