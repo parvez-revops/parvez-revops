@@ -1,4 +1,10 @@
+# Hi, I'm Parvez Akhtar 👋
 
+### 🚀 RevOps Engineer | AI Automation Specialist | GTM Systems Builder
+
+I design and build AI-powered revenue systems that automate lead generation, enrichment, and pipeline workflows using Salesforce, Clay, Zapier, Slack, Workato, and LLMs.
+
+---
 
 ## 🏆 Featured Project — AROS (Vibeathon Winner)
 
@@ -8,68 +14,124 @@
 
 An AI-powered revenue execution engine that transforms traditional RevOps from **reactive reporting → autonomous execution**.
 
----
+### 💡 What it does:
 
-## 📊 System Overview
-
-![AROS Overview](https://via.placeholder.com/900x400?text=Upload+AROS+Diagram+Here)
-
----
-
-## 💡 Problem → Solution
-
-**Problem:**
-
-* Manual monitoring of pipeline
-* Reactive decision-making
-* Missed opportunities & revenue leakage
-
-**Solution (AROS):**
-
-* Detects stalled deals & unworked leads
-* Prioritizes risks across funnel
-* Recommends & executes actions
+* Detects stalled deals and unworked leads
+* Prioritizes risks across the entire funnel
+* Recommends & executes corrective actions
 * Tracks outcomes automatically
 
----
+### 🧠 Key Capabilities:
 
-## 🧠 Architecture
+* Executive Command Center (real-time KPIs & pipeline health)
+* AI Decision Engine (next-best-action recommendations)
+* Funnel Monitor (risk scoring across pipeline)
+* Action Layer (automated tasks, alerts, outreach)
+* Activity Feed (AI actions + measurable outcomes)
 
-![AROS Architecture](https://via.placeholder.com/900x400?text=Upload+Architecture+Diagram)
+### 📈 Business Impact:
 
----
+* Higher pipeline conversion
+* Faster lead response time
+* Reduced manual monitoring
+* Recovery of at-risk revenue
+* Scalable RevOps without headcount increase
 
-## ⚙️ Key Capabilities
+### 🛠 Tech Stack:
 
-* 🧭 Executive Command Center (real-time KPIs & pipeline health)
-* 🤖 AI Decision Engine (next-best-action recommendations)
-* 📊 Funnel Monitor (risk scoring across pipeline)
-* ⚡ Action Layer (automated alerts, tasks, outreach)
-* 📡 Activity Feed (AI actions + measurable outcomes)
-
----
-
-## 🔁 Workflow
-
-![AROS Workflow](https://via.placeholder.com/900x400?text=Upload+Workflow+Diagram)
+Pave (Quickbase), Salesforce, Slack, Marketo, LLMs (ChatGPT, Claude), Zapier / Workato
 
 ---
 
-## 📈 Business Impact
+## 🧠 What I Do
 
-* 🚀 Higher pipeline conversion
-* ⚡ Faster lead response time
-* 🔻 Reduced manual monitoring
-* 💰 Recovery of at-risk revenue
-* 📊 Scalable RevOps without headcount increase
+* ⚡ Build end-to-end GTM automation systems
+* 🤖 Create AI-powered workflows using LLMs
+* 🔗 Integrate Salesforce, Clay, Slack, Zapier, Workato
+* 📊 Optimize RevOps, pipeline, and lead routing
+* 🚀 Enable SDR productivity through automation
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Featured Projects
 
-**Platform:** Pave (Quickbase)
-**Integrations:** Salesforce, Slack, Marketo
-**AI Layer:** LLMs (ChatGPT, Claude)
-**Automation:** Zapier / Workato
+### 🔹 GTM Lead Automation System
+
+End-to-end lead pipeline automation from form capture → enrichment → CRM sync
+
+**Impact:**
+
+* 80% reduction in manual work
+* 3× faster lead qualification
+* 100% pipeline visibility
+
+---
+
+### 🔹 Persona Vector Lead Enrichment Engine
+
+Transforms Slack website visitor alerts into enriched, trackable leads
+
+**Features:**
+
+* Data parsing & normalization
+* Email + LinkedIn verification
+* Persona enrichment & tagging
+* Excel tracking + Slack reminders
+
+---
+
+### 🔹 Lookalike Company Finder (Slack + Clay)
+
+Find and enrich similar companies instantly from Slack
+
+**Impact:**
+
+* 90% reduction in research time
+* Real-time AI enrichment
+* No duplicate records
+
+---
+
+### 🔹 Slack + Clay Account Intelligence Bot
+
+Fetches or creates enriched company data directly from Slack
+
+**Features:**
+
+* Find-or-create logic
+* Private Slack delivery (compliance-safe)
+* Real-time insights
+
+---
+
+## 🛠️ Tech Stack
+
+**RevOps / CRM:**
+Salesforce, Marketo, Gong, Outreach
+
+**Automation & AI:**
+Zapier, Clay, Workato, n8n, ChatGPT, Claude
+
+**Platforms:**
+Pave (Quickbase), Slack
+
+**Data & Tools:**
+Excel, SharePoint, ZoomInfo, RingLead
+
+---
+
+## 📈 Impact
+
+* 🚀 10+ production AI automation systems
+* ⚡ 95% reduction in SDR research time
+* 📊 150+ account briefs generated weekly
+* 🔁 Scalable GTM workflows across teams
+
+---
+
+## 🌐 Connect with Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/parvez-akhtar-415319a6/
+* 📧 Email: [parvez.ssitm@gmail.com](mailto:parvez.ssitm@gmail.com)
 
 ---
