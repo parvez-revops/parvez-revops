@@ -53,15 +53,66 @@ AI-powered revenue execution engine that transforms RevOps from **reporting → 
 
 ---
 
-### 🔹 GTM Lead Automation System
+### 🚀 GTM Lead Automation System
 
-End-to-end lead pipeline automation from form capture → enrichment → CRM sync
+End-to-end AI-powered lead pipeline automation from **form capture → enrichment → CRM sync**
 
-**Impact:**
+---
 
-* 80% reduction in manual work
-* 3× faster lead qualification
-* 100% pipeline visibility
+## 📊 Workflow Overview
+
+### 🧾 Lead Intake (Form → Excel)
+
+![Lead Intake](./git1.png)
+
+Captures structured lead data (industry, size, location, intent) directly from forms into a centralized system.
+
+---
+
+### 🤖 Enrichment Engine (Excel → Clay → Zapier)
+
+![Enrichment](./git 2.png)
+
+* Automatically triggers on new lead entry
+* Uses Clay to identify and enrich 100 relevant companies
+* Adds company data, personas, and intent signals
+
+---
+
+### ⚙️ Data Sync (Webhook → Loop → CRM)
+
+![Data Sync](./git3.png)
+
+* Fetches enriched data via webhook
+* Loops through records
+* Pushes structured data into Excel / CRM (Salesforce, Outreach)
+
+---
+
+## 💡 Key Features
+
+* Automated lead intake & structuring
+* AI-powered company discovery & enrichment
+* Loop-based scalable data processing
+* CRM-ready output with zero manual intervention
+
+---
+
+## 📈 Impact
+
+* ⚡ 80% reduction in manual data entry
+* 🚀 3× faster lead qualification
+* 📊 100% pipeline visibility
+* 🔁 Scalable from 1 → 100+ enriched records instantly
+
+---
+
+## 🛠 Tech Stack
+
+* Microsoft Forms / Excel
+* Clay (AI enrichment)
+* Zapier (automation + looping + webhooks)
+* CRM (Salesforce / Outreach)
 
 ---
 
