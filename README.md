@@ -16,7 +16,7 @@
 
 ## About
 
-I'm a RevOps engineer at Quickbase who builds AI-powered GTM systems — not just processes, but production-grade automation pipelines that replace manual work at scale.
+I'm a NextGen Ops Growth Analyst at Quickbase who builds AI-powered GTM systems — not just processes, but production-grade automation pipelines that replace manual work at scale.
 
 My work sits at the intersection of **revenue operations**, **AI automation**, and **systems thinking**. I design end-to-end workflows across Salesforce, Clay, Zapier, Slack, and 30+ tools that give GTM teams real-time intelligence and eliminate repetitive execution work entirely.
 
