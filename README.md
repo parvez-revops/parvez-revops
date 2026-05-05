@@ -153,7 +153,7 @@ Automates **company lookup, enrichment, and record creation directly from Slack*
 
 #### 🤖 Smart Workflow — Find or Create Record
 
-![Account Intelligence Workflow](https://raw.githubusercontent.com/parvez-revops/slack-clay-account-intelligence-bot/main/account%20research.png)
+![Account Intelligence Workflow](https://github.com/parvez-revops/slack-clay-account-intelligence-bot/blob/main/new1.png)
 
 ---
 
