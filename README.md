@@ -1,234 +1,160 @@
-# Hi, I'm Parvez
+<div align="center">
 
-### RevOps Engineer | AI Automation Specialist | GTM Systems Builder
+# Parvez Akhtar
 
-I design and build AI-powered revenue systems that automate lead generation, enrichment, and pipeline workflows using Pave, Salesforce, Clay, Zapier, Slack, Workato, GONG, ZoomInfo, Vector, UserGems, Marketo etc.
+**RevOps Engineer · AI Automation Architect · GTM Systems Builder**
 
----
+*I don't just run RevOps. I build the systems that run it for me.*
 
-## 🧠 What I Do
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parvez%20Akhtar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvez-akhtar-415319a6/)
+[![Email](https://img.shields.io/badge/Email-parvez.ssitm%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:parvez.ssitm@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-6E6E6E?style=flat&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Bengaluru)
 
-* ⚡ Build end-to-end GTM automation systems
-* 🤖 Create AI-powered workflows using LLMs
-* 🔗 Integrate Salesforce, Clay, Slack, Zapier, Workato and 30+ tools
-* 📊 Optimize RevOps, pipeline, and lead routing
-* 🚀 Enable SDR productivity through automation
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## About
 
-### 🥇 AROS — Autonomous Revenue Operations System (Vibeathon Winner)
+I'm a RevOps engineer at Quickbase who builds AI-powered GTM systems — not just processes, but production-grade automation pipelines that replace manual work at scale.
 
-> **"Salesforce shows what happened. Gong explains why. AROS decides what to do — and acts."**
+My work sits at the intersection of **revenue operations**, **AI automation**, and **systems thinking**. I design end-to-end workflows across Salesforce, Clay, Zapier, Slack, and 30+ tools that give GTM teams real-time intelligence and eliminate repetitive execution work entirely.
 
-AI-powered revenue execution engine that transforms RevOps from **reporting → autonomous decision-making**
-
-**Highlights:**
-
-* Detects stalled deals & pipeline risks automatically
-* AI-driven next-best-action recommendations
-* Executes tasks, alerts, and outreach autonomously
-* Built on Pave (Quickbase) with Salesforce + Slack integrations
+**What I actually do:**
+- Architect and ship AI-powered lead generation, enrichment, and routing systems
+- Build autonomous decision engines that detect pipeline risk and recommend next actions
+- Integrate LLMs (GPT-4, Claude) into revenue workflows for intelligent automation
+- Enable SDR teams to run at 3–5× their natural throughput without adding headcount
 
 ---
 
-### 📊 AROS — System Screens
+## Featured Work
 
-#### 🧭 Control Center
+### AROS — Autonomous Revenue Operations System
+`🏆 Vibeathon Winner`
 
-![AROS Control Center](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB1.png)
+> *"Salesforce shows what happened. Gong explains why. AROS decides what to do — and acts."*
 
-#### 📊 Funnel Monitor
+AROS is an AI-powered revenue execution engine that transforms RevOps from passive reporting into autonomous decision-making. It monitors pipeline health, scores deal risk, and triggers workflows — without waiting for a human to notice a problem.
 
-![AROS Funnel](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB2.png)
+**What it does:**
+- Monitors all open deals in real time and surfaces stall signals before they become losses
+- Runs an AI decision engine that generates next-best-action recommendations per account
+- Executes those actions autonomously across Slack, CRM, and outreach tools
+- Tracks outcomes and feeds results back into the model
 
-#### 🤖 AI Decision Engine
+**Stack:** Pave (Quickbase) · Salesforce · Gong · Slack · Marketo · Zapier · Claude API · GPT-4
 
-![AROS Decision Engine](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB3.png)
+| Screen | What it shows |
+|---|---|
+| ![Control Center](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB1.png) | Executive command center — live pipeline visibility |
+| ![Funnel Monitor](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB2.png) | Funnel intelligence — deal risk scoring across stages |
+| ![Decision Engine](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB3.png) | AI decision engine — autonomous next-best-action layer |
+| ![Workflow Execution](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB4.png) | Workflow execution — automated action across integrated tools |
 
-#### ⚙️ Workflow Execution
-
-![AROS Workflow](https://raw.githubusercontent.com/parvez-revops/aros-revops-ai/main/GHUB4.png)
+→ [View the full AROS repo](https://github.com/parvez-revops/aros-revops-ai) · [System architecture (PDF)](https://github.com/parvez-revops/aros-revops-ai/blob/main/AROS_Quickbase.pdf)
 
 ---
 
-### 🔹 GTM Lead Automation System
+### GTM Lead Automation System
 
-End-to-end lead pipeline automation from **form capture → enrichment → CRM sync**
+End-to-end pipeline automation that takes a lead from first form submission to enriched, routed, and CRM-synced — with zero manual steps in between.
 
-#### 📊 Workflow
+**Architecture:** Microsoft Forms → Excel → Clay (enrichment) → Zapier (routing) → Salesforce
+
+**Outcomes:** 80% reduction in manual qualification work · 3× faster lead-to-pipeline conversion · 100% CRM data completeness
 
 ![GTM Workflow](https://raw.githubusercontent.com/parvez-revops/gtm-lead-automation-system/main/3-1.png)
 
----
-
-**Impact:**
-
-* 80% reduction in manual work  
-* 3× faster lead qualification  
-* 100% pipeline visibility  
+→ [View repo](https://github.com/parvez-revops/gtm-lead-automation-system)
 
 ---
 
-### 🔹 Persona Vector Lead Enrichment Engine
+### Persona Vector Lead Enrichment Engine
 
-Transforms Slack website visitor alerts into **enriched, verified, and SDR-ready leads**
+Converts raw Slack website visitor alerts into fully enriched, verified, and SDR-ready lead records — automatically.
 
----
+**Architecture:** Vector (visitor signal) → Slack alert → Zapier → Clay (enrichment + verification) → Excel tracker → Slack SDR notification
 
-#### 🤖 Workflow (Slack → Zapier → Clay → CRM)
+**What it does:** Parses unstructured Slack messages into structured lead data, verifies emails and LinkedIn profiles via Clay, enriches persona context, and assigns ownership with automated follow-up reminders.
+
+**Outcomes:** ~30% reduction in SDR qualification time · 2× increase in qualified meetings booked · 100% inbound lead visibility
 
 ![Persona Workflow](https://raw.githubusercontent.com/parvez-revops/persona-lead-enrichment-engine/main/per1.png)
 
----
-
-#### 📊 Enriched Lead Intelligence (Clay + Excel)
-
-![Lead Enrichment](https://raw.githubusercontent.com/parvez-revops/persona-lead-enrichment-engine/main/per2.png)
+→ [View repo](https://github.com/parvez-revops/persona-lead-enrichment-engine)
 
 ---
 
-#### 💬 Slack Alerts & Tracking
+### Slack + Clay Account Intelligence Bot
 
-![Slack Alerts](https://raw.githubusercontent.com/parvez-revops/persona-lead-enrichment-engine/main/per3.png)
+A "find or create" automation that lets SDRs query company intelligence from Slack and get back enriched records in seconds — no CRM login, no manual research.
 
----
+**Architecture:** Slack command → Zapier → Clay (lookup) → conditional path → Slack DM with enriched data
 
-#### 💡 Key Capabilities
+**Logic:** If a record exists, fetch and return it. If not, create it, enrich it via Clay + Ocean.io, and return it. Duplicate-safe by design.
 
-* Parses unstructured Slack alerts into structured lead data
-* Verifies emails & LinkedIn profiles using Clay enrichment
-* Enriches personas with roles, company data, and context tags
-* Tracks leads in Excel with ownership & weekly follow-ups
-* Sends automated Slack reminders for SDR action
+**Outcomes:** Eliminates manual account research · real-time enrichment from any Slack conversation · privacy-safe DM delivery
+
+→ [View repo](https://github.com/parvez-revops/slack-clay-account-intelligence-bot)
 
 ---
 
-#### 📈 Impact
+### Lookalike Company Finder
 
-* ⚡ ~30% reduction in SDR qualification time
-* 🚀 Up to 2× increase in qualified meetings
-* 📊 100% visibility & tracking of inbound leads
-* 🔁 Real-time processing with zero manual effort
+Finds and enriches companies similar to a given ICP directly from Slack. Type a domain, get back a list of similar companies with firmographic data enriched and deduplicated.
 
----
+**Stack:** Slack · Zapier · Clay · Ocean.io
 
-### 🔹 Lookalike Company Finder (Slack + Clay)
+**Outcomes:** 90% reduction in manual ICP research time · real-time enrichment with duplicate prevention
 
-Find and enrich **similar companies instantly from Slack using AI**
+→ [View repo](https://github.com/parvez-revops/lookalike-company-finder)
 
 ---
 
-#### 🔍 Workflow
+## Tech Stack
 
-![Lookalike Finder](https://github.com/parvez-revops/lookalike-company-finder/blob/main/slack%20intake%20and%20routing.png)
-
----
-
-#### 💡 Key Capabilities
-
-* Instant lookalike company discovery
-* AI-powered enrichment via Clay + Ocean.io
-* Duplicate detection & smart record handling
-* Private Slack delivery for SDRs
+| Category | Tools |
+|---|---|
+| CRM & Revenue | Salesforce, Marketo, Gong, Outreach |
+| Automation | Zapier, Workato, n8n, Make |
+| Data & Enrichment | Clay, ZoomInfo, Ocean.io, UserGems, RingLead |
+| AI & LLMs | Claude API, GPT-4, Pave AI |
+| Platforms | Pave (Quickbase), Slack, SharePoint |
+| Data | Excel, SQL basics |
 
 ---
 
-#### 📈 Impact
+## By the numbers
 
-* ⚡ 90% reduction in research time
-* 🎯 Better prospect targeting
-* 🔁 Real-time enrichment
-* ✅ Error-free data handling
+| Metric | Result |
+|---|---|
+| Production AI automation systems built | 10+ |
+| Reduction in SDR manual research time | 95% |
+| Account briefs generated weekly | 150+ |
+| Lead-to-pipeline conversion improvement | 3× |
 
-
----
-
-### 🔹 Slack + Clay Account Intelligence Bot
-
-Automates **company lookup, enrichment, and record creation directly from Slack** using intelligent “find or create” logic.
+*These figures reflect actual outcomes from systems running in production at Quickbase and prior engagements.*
 
 ---
 
-#### 🤖 Smart Workflow — Find or Create Record
+## Currently exploring
 
-![Account Intelligence Workflow](https://github.com/parvez-revops/slack-clay-account-intelligence-bot/blob/main/new1.png)
-
----
-
-#### ⚙️ How It Works
-
-* Slack captures company domain input
-* System checks if record already exists in Clay
-* Uses **conditional logic (Paths)** to decide next action
-
-**🟢 Path A — Record Found**
-
-* Fetches existing enriched company data
-* Sends results via private Slack DM
-
-**🟠 Path B — Record Not Found**
-
-* Creates new record in Clay
-* Enriches company data automatically
-* Returns enriched insights via Slack DM
+- Agentic RevOps loops — fully autonomous pipeline management without human-in-the-loop
+- LLM-native CRM enrichment — replacing static data providers with live AI-generated firmographics
+- GTM signal stacking — combining intent, activity, and persona data for precision outbound
 
 ---
 
-#### 💡 Key Capabilities
+## Connect
 
-* Intelligent “find vs create” automation
-* Prevents duplicate records
-* Ensures private, compliance-safe delivery
-* Enables real-time account intelligence
-* Eliminates manual enrichment workflows
+Building something in the GTM automation or RevOps AI space? Always up for a conversation.
 
----
-
-#### 📈 Impact
-
-* ⚡ Reduced manual account research
-* 🔁 One unified workflow for lookup + creation
-* 🔒 Privacy-safe Slack delivery
-* 🚀 Faster SDR execution
+**LinkedIn:** [parvez-akhtar-415319a6](https://www.linkedin.com/in/parvez-akhtar-415319a6/)  
+**Email:** [parvez.ssitm@gmail.com](mailto:parvez.ssitm@gmail.com)
 
 ---
 
-
-## 🛠️ Tech Stack
-
-**RevOps / CRM:**
-Salesforce, Marketo, Gong, Outreach
-
-**Automation & AI:**
-Zapier, Clay, Workato, n8n, ChatGPT, Claude
-
-**Platforms:**
-Pave (Quickbase), Slack
-
-**Data & Tools:**
-Excel, SharePoint, ZoomInfo, RingLead
-
----
-
-## 📈 Impact
-
-* 🚀 10+ production AI automation systems
-* ⚡ 95% reduction in SDR research time
-* 📊 150+ account briefs generated weekly
-* 🔁 Scalable GTM workflows across teams
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/parvez-akhtar-415319a6/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:parvez.ssitm@gmail.com">
-    <img src="https://img.icons8.com/color/96/gmail-new.png" width="50"/>
-  </a>
-</p>
+<div align="center">
+<sub>All systems shown here are production-built. Not demos, not mockups — actual automation pipelines used by real GTM teams.</sub>
+</div>
